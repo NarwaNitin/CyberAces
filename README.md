@@ -1,0 +1,1 @@
+Currently, we have bare minimal index.html file.

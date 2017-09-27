@@ -464,7 +464,7 @@ button {
 }
 
 .parallax{
-	background: url("/CyberSecurityAces/2_7.jpeg") repeat fixed 100%;
+	background: url("../2_7.jpeg") repeat fixed 100%;
 /*	background: url("http://www.w3newbie.com/wp-content/uploads/parallax-2.jpg") repeat fixed 100%; */
 }
 .parallax-inner{
